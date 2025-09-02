@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "one-print-command-set": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/onePrint/OnePrintCommandSet.js",
+          "manifest": "./src/extensions/onePrint/OnePrintCommandSet.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "OnePrintCommandSetStrings": "lib/extensions/onePrint/loc/{locale}.js"
+  }
+}

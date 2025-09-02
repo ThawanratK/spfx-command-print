@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "onePrint",
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet",
+    "template": "none",
+    "componentName": "onePrint",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.9.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "one-print",
+    "libraryId": "974ef7c0-729b-4fde-8a21-5912baf61e46",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "onePrint description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}
