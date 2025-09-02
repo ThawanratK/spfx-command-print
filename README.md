@@ -1,4 +1,4 @@
-# one-print
+# SPFX-Command-Print
 
 ## Summary
 
